@@ -1,0 +1,5 @@
+﻿  02_main.cpp
+C:\Users\Administrator\Desktop\SBS_Programming3\Programming3\02_포인터와 참조자\02_main.cpp(59,8): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Administrator\Desktop\SBS_Programming3\Programming3\02_포인터와 참조자\02_main.cpp(60,8): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Administrator\Desktop\SBS_Programming3\Programming3\02_포인터와 참조자\02_main.cpp(31,1): warning C4172: 지역 변수 또는 임시: temp의 주소를 반환하고 있습니다.
+  02_포인터와 참조자.vcxproj -> C:\Users\Administrator\Desktop\SBS_Programming3\Programming3\x64\Debug\02_포인터와 참조자.exe
