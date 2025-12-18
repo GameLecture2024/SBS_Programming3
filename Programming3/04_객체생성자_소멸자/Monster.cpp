@@ -1,4 +1,5 @@
 #include "Monster.h"
+#include "Monster.h"
 
 // delegate 위임 생성자
 // 매개변수 몇개든 간에 모든 생성자는 하나의 생성자 코드로만 구현할 수 있다.
