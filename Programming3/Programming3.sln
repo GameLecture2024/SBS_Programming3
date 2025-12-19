@@ -17,6 +17,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "06_연산자오버로딩", 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "07_연산자오버로딩 활용", "07_연산자오버로딩 활용\07_연산자오버로딩 활용.vcxproj", "{D868ED3A-2268-466A-87B8-5574040D7751}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "08_상속과 구성", "08_상속과 구성\08_상속과 구성.vcxproj", "{0AEC3A29-CCEE-44A3-AC50-ECE444B5E646}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -81,6 +83,14 @@ Global
 		{D868ED3A-2268-466A-87B8-5574040D7751}.Release|x64.Build.0 = Release|x64
 		{D868ED3A-2268-466A-87B8-5574040D7751}.Release|x86.ActiveCfg = Release|Win32
 		{D868ED3A-2268-466A-87B8-5574040D7751}.Release|x86.Build.0 = Release|Win32
+		{0AEC3A29-CCEE-44A3-AC50-ECE444B5E646}.Debug|x64.ActiveCfg = Debug|x64
+		{0AEC3A29-CCEE-44A3-AC50-ECE444B5E646}.Debug|x64.Build.0 = Debug|x64
+		{0AEC3A29-CCEE-44A3-AC50-ECE444B5E646}.Debug|x86.ActiveCfg = Debug|Win32
+		{0AEC3A29-CCEE-44A3-AC50-ECE444B5E646}.Debug|x86.Build.0 = Debug|Win32
+		{0AEC3A29-CCEE-44A3-AC50-ECE444B5E646}.Release|x64.ActiveCfg = Release|x64
+		{0AEC3A29-CCEE-44A3-AC50-ECE444B5E646}.Release|x64.Build.0 = Release|x64
+		{0AEC3A29-CCEE-44A3-AC50-ECE444B5E646}.Release|x86.ActiveCfg = Release|Win32
+		{0AEC3A29-CCEE-44A3-AC50-ECE444B5E646}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
