@@ -67,3 +67,32 @@ void jump_gameObject::move()
 
 	run_GameObject::move();
 }
+
+dash_gameObject::dash_gameObject(int x, int y, string shape, int speed, int dashPower, int movetick)
+	: run_GameObject(x, y, shape, speed), dashPower(dashPower)
+{
+	dashtick = 0;
+	dashTime = 3;
+}
+
+dash_gameObject::dash_gameObject() : dash_gameObject(80, 5, "This is example", 3, 1)
+{
+}
+
+void dash_gameObject::move()
+{
+	dashtick++;
+	if (dashTime <= dashtick) // 내가 움직이고 싶은 속도에 도달했을 때
+	{
+		dash();
+
+		dashtick = 0;
+	}
+
+	run_GameObject::move();
+}
+
+void dash_gameObject::dash()
+{
+	x -= dashPower;
+}
