@@ -1,5 +1,4 @@
-﻿  run_GameObject.cpp
-  run_main.cpp
-C:\Users\Administrator\Desktop\SBS_Programming3\Programming3\10_예제 게임 코드(달리기 프로젝트)\run_main.cpp(46,2): warning C4154: 배열 식을 삭제했습니다. 포인터로 변환이 제공됩니다.
-  코드를 생성하고 있습니다...
+﻿  run_main.cpp
+C:\Users\Administrator\Desktop\SBS_Programming3\Programming3\10_예제 게임 코드(달리기 프로젝트)\run_main.cpp(35,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\Administrator\Desktop\SBS_Programming3\Programming3\10_예제 게임 코드(달리기 프로젝트)\run_main.cpp(107,2): warning C4154: 배열 식을 삭제했습니다. 포인터로 변환이 제공됩니다.
   10_예제 게임 코드(달리기 프로젝트).vcxproj -> C:\Users\Administrator\Desktop\SBS_Programming3\Programming3\x64\Debug\10_예제 게임 코드(달리기 프로젝트).exe

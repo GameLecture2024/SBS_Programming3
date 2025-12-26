@@ -25,6 +25,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10_예제 게임 코드(달
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11_범위 기반 루프", "11_범위 기반 루프\11_범위 기반 루프.vcxproj", "{8828D830-C924-4464-85C7-545BA227A47F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "12_JSON 사용하기", "12_JSON 사용하기\12_JSON 사용하기.vcxproj", "{B9439733-4646-4E9F-A536-4DBC0981AAC5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -121,6 +123,14 @@ Global
 		{8828D830-C924-4464-85C7-545BA227A47F}.Release|x64.Build.0 = Release|x64
 		{8828D830-C924-4464-85C7-545BA227A47F}.Release|x86.ActiveCfg = Release|Win32
 		{8828D830-C924-4464-85C7-545BA227A47F}.Release|x86.Build.0 = Release|Win32
+		{B9439733-4646-4E9F-A536-4DBC0981AAC5}.Debug|x64.ActiveCfg = Debug|x64
+		{B9439733-4646-4E9F-A536-4DBC0981AAC5}.Debug|x64.Build.0 = Debug|x64
+		{B9439733-4646-4E9F-A536-4DBC0981AAC5}.Debug|x86.ActiveCfg = Debug|Win32
+		{B9439733-4646-4E9F-A536-4DBC0981AAC5}.Debug|x86.Build.0 = Debug|Win32
+		{B9439733-4646-4E9F-A536-4DBC0981AAC5}.Release|x64.ActiveCfg = Release|x64
+		{B9439733-4646-4E9F-A536-4DBC0981AAC5}.Release|x64.Build.0 = Release|x64
+		{B9439733-4646-4E9F-A536-4DBC0981AAC5}.Release|x86.ActiveCfg = Release|Win32
+		{B9439733-4646-4E9F-A536-4DBC0981AAC5}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

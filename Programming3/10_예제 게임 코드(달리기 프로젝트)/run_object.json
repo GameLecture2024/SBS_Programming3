@@ -1,0 +1,30 @@
+[
+  {
+    "X": 80,
+    "Y": 6,
+    "Shape": "run project",
+    "Speed ": 4,
+    "jumpPower" : 0
+  },
+  {
+    "X": 80,
+    "Y": 6,
+    "Shape": "speedy",
+    "Speed ": 1,
+    "jumpPower" : 0
+  },
+  {
+    "X": 80,
+    "Y": 6,
+    "Shape": "jump",
+    "Speed ": 1,
+    "jumpPower" : 2
+  },
+  {
+    "X": 80,
+    "Y": 10,
+    "Shape": "jump",
+    "Speed ": 2,
+    "jumpPower" : 2
+  }
+]
