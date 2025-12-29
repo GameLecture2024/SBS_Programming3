@@ -1,0 +1,56 @@
+[
+  {
+    "X": 80,
+    "Y": 6,
+    "Shape": "cpp run project",
+    "Speed": 5,
+    "moveType": 0,
+    "jumppower": 0,
+    "dashpower": 0
+  },
+  {
+    "X": 80,
+    "Y": 6,
+    "Shape": "speedy",
+    "Speed": 1,
+    "moveType": 0,
+    "jumppower": 0,
+    "dashpower": 0
+  },
+  {
+    "X": 80,
+    "Y": 6,
+    "Shape": "jump",
+    "Speed": 1,
+    "moveType": 1,
+    "jumppower": 2,
+    "dashpower": 0
+  },
+  {
+    "X": 80,
+    "Y": 10,
+    "Shape": "jump",
+    "Speed": 2,
+    "moveType": 1,
+    "jumppower": 3,
+    "dashpower": 0
+  },
+  {
+    "X": 80,
+    "Y": 3,
+    "Shape": "dash",
+    "Speed": 3,
+    "moveType": 2,
+    "jumppower": 0,
+    "dashpower": 2
+  },
+  {
+    "X": 80,
+    "Y": 4,
+    "Shape": "dash",
+    "Speed": 3,
+    "moveType": 2,
+    "jumppower": 0,
+    "dashpower": 3
+  }
+]
