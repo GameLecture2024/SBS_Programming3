@@ -29,6 +29,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "12_JSON 사용하기", "12_
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "13_형변환 객체를 생성하기", "13_형변환 객체를 생성하기\13_형변환 객체를 생성하기.vcxproj", "{FC699997-1724-4CB0-9C5D-4E4EDB6FE7BA}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "14_템플릿에 대한 이해, 스마트 포인터", "14_템플릿에 대한 이해, 스마트 포인터\14_템플릿에 대한 이해, 스마트 포인터.vcxproj", "{C53965E5-4BB3-402A-B00D-69D25993856B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -141,6 +143,14 @@ Global
 		{FC699997-1724-4CB0-9C5D-4E4EDB6FE7BA}.Release|x64.Build.0 = Release|x64
 		{FC699997-1724-4CB0-9C5D-4E4EDB6FE7BA}.Release|x86.ActiveCfg = Release|Win32
 		{FC699997-1724-4CB0-9C5D-4E4EDB6FE7BA}.Release|x86.Build.0 = Release|Win32
+		{C53965E5-4BB3-402A-B00D-69D25993856B}.Debug|x64.ActiveCfg = Debug|x64
+		{C53965E5-4BB3-402A-B00D-69D25993856B}.Debug|x64.Build.0 = Debug|x64
+		{C53965E5-4BB3-402A-B00D-69D25993856B}.Debug|x86.ActiveCfg = Debug|Win32
+		{C53965E5-4BB3-402A-B00D-69D25993856B}.Debug|x86.Build.0 = Debug|Win32
+		{C53965E5-4BB3-402A-B00D-69D25993856B}.Release|x64.ActiveCfg = Release|x64
+		{C53965E5-4BB3-402A-B00D-69D25993856B}.Release|x64.Build.0 = Release|x64
+		{C53965E5-4BB3-402A-B00D-69D25993856B}.Release|x86.ActiveCfg = Release|Win32
+		{C53965E5-4BB3-402A-B00D-69D25993856B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
