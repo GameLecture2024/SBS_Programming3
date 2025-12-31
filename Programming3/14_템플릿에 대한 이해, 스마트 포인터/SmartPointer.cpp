@@ -37,13 +37,11 @@ void Example3()
 	std::cout << std::endl;
 	std::cout << "Smart Point : Weak Example" << std::endl;
 
-	Police p1;
-	Gun gun;
-	p1.myGun = make_shared<Gun>(gun);
-	gun.owner = make_shared<Police>(p1);
+	shared_ptr<Police> p1 = make_shared<Police>();	// new Police() 대신 사용한다;
+	shared_ptr<Gun> gun = make_shared<Gun>();
+	p1->myGun = gun; // 경찰이 소유한 총이 Gun을 가리킨다.
+	gun->owner = p1; // 총의 소유자는 p1이다.
 
-	gun.owner.reset(); // 경찰이 총을 집어들어서 생성되어 있던 gun 정보를 없앴다.
-	p1.myGun.reset();  // 내가 가지고 있는 총의 포인터를 지우겠다.
-	std::cout << p1.myGun.use_count() << std::endl;
-	std::cout << gun.owner.use_count() << std::endl;
+	std::cout << p1->myGun.use_count() << std::endl;
+	std::cout << gun->owner.use_count() << std::endl;
 }

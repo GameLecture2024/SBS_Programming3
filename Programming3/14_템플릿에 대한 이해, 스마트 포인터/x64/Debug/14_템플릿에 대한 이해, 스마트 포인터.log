@@ -1,2 +1,14 @@
-﻿  SmartPointer.cpp
+﻿  14_main.cpp
+C:\Users\Administrator\Desktop\SBS_Programming3\Programming3\14_템플릿에 대한 이해, 스마트 포인터\14_main.cpp(72,28): warning C4244: '인수': 'double'에서 'T'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Administrator\Desktop\SBS_Programming3\Programming3\14_템플릿에 대한 이해, 스마트 포인터\14_main.cpp(72,28): warning C4244:         with
+C:\Users\Administrator\Desktop\SBS_Programming3\Programming3\14_템플릿에 대한 이해, 스마트 포인터\14_main.cpp(72,28): warning C4244:         [
+C:\Users\Administrator\Desktop\SBS_Programming3\Programming3\14_템플릿에 대한 이해, 스마트 포인터\14_main.cpp(72,28): warning C4244:             T=int
+C:\Users\Administrator\Desktop\SBS_Programming3\Programming3\14_템플릿에 대한 이해, 스마트 포인터\14_main.cpp(72,28): warning C4244:         ]
+C:\Users\Administrator\Desktop\SBS_Programming3\Programming3\14_템플릿에 대한 이해, 스마트 포인터\14_main.cpp(72,23): warning C4244: '인수': 'double'에서 'T'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Administrator\Desktop\SBS_Programming3\Programming3\14_템플릿에 대한 이해, 스마트 포인터\14_main.cpp(72,23): warning C4244:         with
+C:\Users\Administrator\Desktop\SBS_Programming3\Programming3\14_템플릿에 대한 이해, 스마트 포인터\14_main.cpp(72,23): warning C4244:         [
+C:\Users\Administrator\Desktop\SBS_Programming3\Programming3\14_템플릿에 대한 이해, 스마트 포인터\14_main.cpp(72,23): warning C4244:             T=int
+C:\Users\Administrator\Desktop\SBS_Programming3\Programming3\14_템플릿에 대한 이해, 스마트 포인터\14_main.cpp(72,23): warning C4244:         ]
+  SmartPointer.cpp
+  코드를 생성하고 있습니다...
   14_템플릿에 대한 이해, 스마트 포인터.vcxproj -> C:\Users\Administrator\Desktop\SBS_Programming3\Programming3\x64\Debug\14_템플릿에 대한 이해, 스마트 포인터.exe
