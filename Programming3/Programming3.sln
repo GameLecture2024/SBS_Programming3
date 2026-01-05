@@ -35,6 +35,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "15_플레이어와 스킬 �
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "16_STL에 대한 이해 클래스 구현하기", "16_STL에 대한 이해 클래스 구현하기\16_STL에 대한 이해 클래스 구현하기.vcxproj", "{E3ED07D9-6F58-445B-B6B2-6BA7B6B7DDA0}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "17_클래스 라이브러리", "17_클래스 라이브러리\17_클래스 라이브러리.vcxproj", "{F5C23045-5C96-4C16-B166-69918442CCD3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -171,6 +173,14 @@ Global
 		{E3ED07D9-6F58-445B-B6B2-6BA7B6B7DDA0}.Release|x64.Build.0 = Release|x64
 		{E3ED07D9-6F58-445B-B6B2-6BA7B6B7DDA0}.Release|x86.ActiveCfg = Release|Win32
 		{E3ED07D9-6F58-445B-B6B2-6BA7B6B7DDA0}.Release|x86.Build.0 = Release|Win32
+		{F5C23045-5C96-4C16-B166-69918442CCD3}.Debug|x64.ActiveCfg = Debug|x64
+		{F5C23045-5C96-4C16-B166-69918442CCD3}.Debug|x64.Build.0 = Debug|x64
+		{F5C23045-5C96-4C16-B166-69918442CCD3}.Debug|x86.ActiveCfg = Debug|Win32
+		{F5C23045-5C96-4C16-B166-69918442CCD3}.Debug|x86.Build.0 = Debug|Win32
+		{F5C23045-5C96-4C16-B166-69918442CCD3}.Release|x64.ActiveCfg = Release|x64
+		{F5C23045-5C96-4C16-B166-69918442CCD3}.Release|x64.Build.0 = Release|x64
+		{F5C23045-5C96-4C16-B166-69918442CCD3}.Release|x86.ActiveCfg = Release|Win32
+		{F5C23045-5C96-4C16-B166-69918442CCD3}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
