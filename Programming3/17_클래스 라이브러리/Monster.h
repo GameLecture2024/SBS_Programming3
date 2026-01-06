@@ -16,7 +16,7 @@ public:
 	bool operator>(const Monster& other);  // ³ªÀÇ_hp (Monster)other._hp
 
 
-	Monster(int id, int hp, int atk, string name) : BattleObject(id, hp, atk), _name(name) {}
+	Monster(int id, RoomObjectType TYPE, int hp, int atk, string name);
 
 	void Attack(BattleObject* mon) override;
 

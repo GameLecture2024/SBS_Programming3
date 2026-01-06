@@ -1,10 +1,10 @@
 #include "Player.h"
 
-Player::Player(int id, int hp, int atk)
-	: BattleObject(id, hp, atk) {}
+Player::Player(int id, RoomObjectType TYPE, int hp, int atk)
+	: BattleObject(id, TYPE, hp, atk) {}
 
 Player::Player() 
-	: Player{ 1001, 1000, 100 } {}
+	: Player{ 1001,RoomObjectType::BATTLE,  1000, 100 } {}
 
 void Player::Attack(BattleObject* other)
 {
